@@ -1,0 +1,29 @@
+section {
+	width: 100%;
+	padding: 1rem;
+	margin-top: 2rem
+}
+
+h2 {
+	margin-left: 3rem;
+	font-family: Times New Roman;
+	font-size: 2.8rem !important;
+	width: 400px;
+}
+
+.contact {
+	margin-left: 4rem;
+	font-family: Times New Roman;
+	font-size: 1.3rem !important;
+	width: 400px;
+}
+
+.contact span {
+	margin: 1rem;
+}
+
+.contact span i {
+	font-size: 1.2rem;
+	width: 1.4rem;
+	margin-right: 1rem;
+}

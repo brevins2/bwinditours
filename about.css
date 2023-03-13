@@ -1,0 +1,59 @@
+section {
+	margin: 1rem;
+	margin-top: 2rem;
+}
+
+h2 {
+	margin-left: 3rem;
+	font-family: Times New Roman;
+	font-size: 2.8rem !important;
+	width: 400px;
+}
+
+.detail-notes {
+	width: 78%;
+	padding-left: 5%;
+}
+
+h3 {
+	font-family: Times New Roman;
+}
+
+h4 {
+	margin-top: 2rem !important;
+	background-color: #82808042;
+	border-radius: 5px 5px 0px 0px;
+	padding-left: 3rem;
+	font-family: Times New Roman;
+	font-size: 2.5rem !important;	
+}
+
+.div-card {
+	background-color: #d3d3d352;
+	margin-top: -8px;
+	padding-bottom: 15px;
+}
+
+.card {
+	width: 45%;
+	margin: 0 auto;
+	margin-bottom: 2rem;
+	border: none !important;
+}
+
+.content img {
+	width: 100% !important;
+}
+
+.note {
+	padding: 2rem;
+	font-family: Times New Roman;
+}
+
+.div-note {
+	width: 80%;
+	margin: 0 auto;
+	background-color: #d3d3d3cc;
+	margin-top: -20%;
+	opacity: 1;
+}
